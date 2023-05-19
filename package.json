@@ -1,0 +1,31 @@
+{
+  "name": "nodadz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan89898/nodadz.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivan89898/nodadz/issues"
+  },
+  "homepage": "https://github.com/ivan89898/nodadz#readme",
+  "devDependencies": {
+    "eslint": "^8.40.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.7.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "prettier": "^2.5.1"
+  }
+}
